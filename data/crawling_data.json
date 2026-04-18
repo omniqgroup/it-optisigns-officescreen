@@ -1638,18 +1638,6 @@
         ],
         "WCI": [
             {
-                "date": "2025-04-17",
-                "WCI_Composite_Index": 2192,
-                "WCI_Shanghai_Rotterdam": 2344,
-                "WCI_Rotterdam_Shanghai": 493,
-                "WCI_Shanghai_Genoa": 3018,
-                "WCI_Shanghai_to_Los_Angeles": 2683,
-                "WCI_Los_Angeles_to_Shanghai": 705,
-                "WCI_Shanghai_New_York": 3706,
-                "WCI_New_York_Rotterdam": 817,
-                "WCI_Rotterdam_New_York": 2129
-            },
-            {
                 "date": "2025-04-24",
                 "WCI_Composite_Index": 2157,
                 "WCI_Shanghai_Rotterdam": 2312,
