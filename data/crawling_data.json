@@ -803,23 +803,6 @@
         ],
         "SCFI": [
             {
-                "date": "2025-04-18",
-                "SCFI_Composite_Index": 1371,
-                "SCFI_US_West_Coast": 2103,
-                "SCFI_US_East_Coast": 3251,
-                "SCFI_North_Europe": 1316,
-                "SCFI_Mediterranean": 2161,
-                "SCFI_Southeast_Asia": 450,
-                "SCFI_Middle_East": 1266,
-                "SCFI_Australia_New_Zealand": 891,
-                "SCFI_South_America": 1573,
-                "SCFI_Japan_West_Coast": 316,
-                "SCFI_Japan_East_Coast": 321,
-                "SCFI_Korea": 146,
-                "SCFI_East_West_Africa": 3853,
-                "SCFI_South_Africa": 2076
-            },
-            {
                 "date": "2025-04-25",
                 "SCFI_Composite_Index": 1348,
                 "SCFI_US_West_Coast": 2141,
@@ -2394,22 +2377,6 @@
             }
         ],
         "FBX": [
-            {
-                "date": "2025-04-18",
-                "FBX_Composite_Index": 2036,
-                "FBX_China_EA_US_West_Coast": 2343,
-                "FBX_US_West_Coast_China_EA": 383,
-                "FBX_China_EA_US_East_Coast": 3467,
-                "FBX_US_East_Coast_China_EA": 521,
-                "FBX_China_EA_North_Europe": 2340,
-                "FBX_North_Europe_China_EA": 463,
-                "FBX_China_EA_Mediterranean": 2935,
-                "FBX_Mediterranean_China_EA": 651,
-                "FBX_US_East_Coast_North_Europe": 427,
-                "FBX_North_Europe_US_East_Coast": 2130,
-                "FBX_Europe_South_America_East_Coast": 899,
-                "FBX_Europe_South_America_West_Coast": 2750
-            },
             {
                 "date": "2025-04-25",
                 "FBX_Composite_Index": 2042,
@@ -6106,10 +6073,6 @@
             }
         ],
         "MBCI": [
-            {
-                "date": "2025-04-18",
-                "MBCI_Value": 1391
-            },
             {
                 "date": "2025-04-25",
                 "MBCI_Value": 1424
