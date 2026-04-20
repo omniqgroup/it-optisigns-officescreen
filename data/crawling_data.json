@@ -2280,8 +2280,8 @@
             },
             {
                 "date": "2026-04-16",
-                "WCI_Composite_Index": 2,
-                "WCI_Shanghai_Rotterdam": 2,
+                "WCI_Composite_Index": 2246,
+                "WCI_Shanghai_Rotterdam": 2229,
                 "WCI_Rotterdam_Shanghai": 599,
                 "WCI_Shanghai_Genoa": 3343,
                 "WCI_Shanghai_to_Los_Angeles": 2810,
@@ -6628,21 +6628,21 @@
             "rows": [
                 {
                     "route": "WCI_종합지수",
-                    "current_index": 2.0,
+                    "current_index": 2246.0,
                     "previous_index": 2309.0,
                     "weekly_change": {
-                        "value": "-2307.0",
-                        "percentage": "-99.91%",
+                        "value": "-63.0",
+                        "percentage": "-2.73%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "WCI_상하이 → 로테르담",
-                    "current_index": 2.0,
+                    "current_index": 2229.0,
                     "previous_index": 2308.0,
                     "weekly_change": {
-                        "value": "-2306.0",
-                        "percentage": "-99.91%",
+                        "value": "-79.0",
+                        "percentage": "-3.42%",
                         "color_class": "text-blue-500"
                     }
                 },
