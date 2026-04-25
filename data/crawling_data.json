@@ -2263,15 +2263,15 @@
             },
             {
                 "date": "2026-04-23",
-                "WCI_Composite_Index": 2,
-                "WCI_Shanghai_Rotterdam": 2,
+                "WCI_Composite_Index": 2232,
+                "WCI_Shanghai_Rotterdam": 2147,
                 "WCI_Rotterdam_Shanghai": 607,
                 "WCI_Shanghai_Genoa": 3071,
                 "WCI_Shanghai_to_Los_Angeles": 2934,
                 "WCI_Los_Angeles_to_Shanghai": 784,
                 "WCI_Shanghai_New_York": 3562,
                 "WCI_New_York_Rotterdam": 1031,
-                "WCI_Rotterdam_New_York": 2
+                "WCI_Rotterdam_New_York": 2326
             }
         ],
         "BLANKSAILING": [
@@ -6655,21 +6655,21 @@
             "rows": [
                 {
                     "route": "WCI_종합지수",
-                    "current_index": 2.0,
+                    "current_index": 2232.0,
                     "previous_index": 2246.0,
                     "weekly_change": {
-                        "value": "-2244.0",
-                        "percentage": "-99.91%",
+                        "value": "-14.0",
+                        "percentage": "-0.62%",
                         "color_class": "text-blue-500"
                     }
                 },
                 {
                     "route": "WCI_상하이 → 로테르담",
-                    "current_index": 2.0,
+                    "current_index": 2147.0,
                     "previous_index": 2229.0,
                     "weekly_change": {
-                        "value": "-2227.0",
-                        "percentage": "-99.91%",
+                        "value": "-82.0",
+                        "percentage": "-3.68%",
                         "color_class": "text-blue-500"
                     }
                 },
@@ -6735,12 +6735,12 @@
                 },
                 {
                     "route": "WCI_로테르담 → 뉴욕",
-                    "current_index": 2.0,
+                    "current_index": 2326.0,
                     "previous_index": 2030.0,
                     "weekly_change": {
-                        "value": "-2028.0",
-                        "percentage": "-99.90%",
-                        "color_class": "text-blue-500"
+                        "value": "296.0",
+                        "percentage": "14.58%",
+                        "color_class": "text-red-500"
                     }
                 }
             ]
