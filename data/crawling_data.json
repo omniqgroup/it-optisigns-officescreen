@@ -2378,22 +2378,6 @@
         ],
         "FBX": [
             {
-                "date": "2025-05-02",
-                "FBX_Composite_Index": 2014,
-                "FBX_China_EA_US_West_Coast": 2321,
-                "FBX_US_West_Coast_China_EA": 424,
-                "FBX_China_EA_US_East_Coast": 3386,
-                "FBX_US_East_Coast_China_EA": 513,
-                "FBX_China_EA_North_Europe": 2261,
-                "FBX_North_Europe_China_EA": 449,
-                "FBX_China_EA_Mediterranean": 3027,
-                "FBX_Mediterranean_China_EA": 588,
-                "FBX_US_East_Coast_North_Europe": 445,
-                "FBX_North_Europe_US_East_Coast": 2130,
-                "FBX_Europe_South_America_East_Coast": 814,
-                "FBX_Europe_South_America_West_Coast": 3024
-            },
-            {
                 "date": "2025-05-09",
                 "FBX_Composite_Index": 2047,
                 "FBX_China_EA_US_West_Coast": 2395,
@@ -6113,10 +6097,6 @@
             }
         ],
         "MBCI": [
-            {
-                "date": "2025-05-02",
-                "MBCI_Value": 1424
-            },
             {
                 "date": "2025-05-09",
                 "MBCI_Value": 1407
