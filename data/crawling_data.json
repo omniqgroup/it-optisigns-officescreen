@@ -2,23 +2,6 @@
     "chart_data": {
         "KCCI": [
             {
-                "date": "2025-06-09",
-                "KCCI_Composite_Index": 2807,
-                "KCCI_US_West_Coast": 5418,
-                "KCCI_US_East_Coast": 6373,
-                "KCCI_Europe": 2540,
-                "KCCI_Mediterranean": 4361,
-                "KCCI_Middle_East": 2510,
-                "KCCI_Australia": 1648,
-                "KCCI_South_America_East_Coast": 3294,
-                "KCCI_South_America_West_Coast": 4008,
-                "KCCI_South_Africa": 2952,
-                "KCCI_West_Africa": 3751,
-                "KCCI_China": 46,
-                "KCCI_Japan": 245,
-                "KCCI_Southeast_Asia": 1139
-            },
-            {
                 "date": "2025-06-16",
                 "KCCI_Composite_Index": 2827,
                 "KCCI_US_West_Coast": 4921,
