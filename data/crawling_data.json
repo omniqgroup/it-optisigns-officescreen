@@ -3215,6 +3215,22 @@
                 "FBX_North_Europe_US_East_Coast": 1996,
                 "FBX_Europe_South_America_East_Coast": 965,
                 "FBX_Europe_South_America_West_Coast": 2659
+            },
+            {
+                "date": "2026-06-12",
+                "FBX_Composite_Index": 2887,
+                "FBX_China_EA_US_West_Coast": 4836,
+                "FBX_US_West_Coast_China_EA": 451,
+                "FBX_China_EA_US_East_Coast": 6532,
+                "FBX_US_East_Coast_China_EA": 651,
+                "FBX_China_EA_North_Europe": 4189,
+                "FBX_North_Europe_China_EA": 557,
+                "FBX_China_EA_Mediterranean": 5440,
+                "FBX_Mediterranean_China_EA": 434,
+                "FBX_US_East_Coast_North_Europe": 848,
+                "FBX_North_Europe_US_East_Coast": 2043,
+                "FBX_Europe_South_America_East_Coast": 971,
+                "FBX_Europe_South_America_West_Coast": 2626
             }
         ],
         "XSI": [
@@ -6001,6 +6017,18 @@
                 "XSI_North_Europe_US_East_Coast": 2298,
                 "XSI_US_East_Coast_North_Europe": 742,
                 "XSI_North_Europe_South_America_East_Coast": 727
+            },
+            {
+                "date": "2026-06-11",
+                "XSI_Composite_Index": 2438,
+                "XSI_East_Asia_North_Europe": 3827,
+                "XSI_North_Europe_East_Asia": 240,
+                "XSI_East_Asia_US_West_Coast": 4235,
+                "XSI_US_West_Coast_East_Asia": 634,
+                "XSI_East_Asia_South_America_East_Coast": 6797,
+                "XSI_North_Europe_US_East_Coast": 2299,
+                "XSI_US_East_Coast_North_Europe": 743,
+                "XSI_North_Europe_South_America_East_Coast": 725
             }
         ],
         "MBCI": [
@@ -6211,6 +6239,10 @@
             {
                 "date": "2026-06-05",
                 "MBCI_Value": 1518
+            },
+            {
+                "date": "2026-06-12",
+                "MBCI_Value": 1501
             }
         ]
     },
