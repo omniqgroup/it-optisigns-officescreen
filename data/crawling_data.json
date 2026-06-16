@@ -6966,59 +6966,55 @@
     },
     "weather_data": {
         "current": {
-            "LA_Temperature": "63.09",
+            "LA_Temperature": "62.55",
             "LA_WeatherStatus": "맑음(clear sky)",
-            "LA_Humidity": "66",
-            "LA_WindSpeed": "3.15",
+            "LA_Humidity": "73",
+            "LA_WindSpeed": "3.62",
             "LA_Pressure": "1015",
             "LA_Visibility": "6.2",
-            "LA_Sunrise": "5:41:13 AM",
-            "LA_Sunset": "8:05:52 PM"
+            "LA_Sunrise": "5:41:17 AM",
+            "LA_Sunset": "8:06:12 PM"
         },
         "forecast": [
             {
-                "date": "6/15/2026",
-                "min_temp": "63.3",
-                "max_temp": "78.8",
-                "status": "맑음(clear sky)"
-            },
-            {
                 "date": "6/16/2026",
-                "min_temp": "62",
-                "max_temp": "84",
+                "min_temp": "62.6",
+                "max_temp": "76.6",
                 "status": "맑음(clear sky)"
             },
             {
                 "date": "6/17/2026",
-                "min_temp": "67.5",
-                "max_temp": "84.5",
+                "min_temp": "60.8",
+                "max_temp": "81.6",
                 "status": "맑음(clear sky)"
             },
             {
                 "date": "6/18/2026",
-                "min_temp": "65.9",
-                "max_temp": "82.4",
+                "min_temp": "64.8",
+                "max_temp": "76.1",
                 "status": "맑음(clear sky)"
             },
             {
                 "date": "6/19/2026",
-                "min_temp": "63.5",
-                "max_temp": "74.8",
-                "status": "맑음(clear sky)"
+                "min_temp": "63.1",
+                "max_temp": "74.6",
+                "status": "구름 중간(scattered clouds)"
             },
             {
                 "date": "6/20/2026",
-                "min_temp": "62.1",
-                "max_temp": "63.5",
+                "min_temp": "61.6",
+                "max_temp": "76.1",
+                "status": "맑음(clear sky)"
+            },
+            {
+                "date": "6/21/2026",
+                "min_temp": "63",
+                "max_temp": "63.9",
                 "status": "맑음(clear sky)"
             }
         ]
     },
     "exchange_rate": [
-        {
-            "date": "2026-05-15",
-            "rate": 1498.0
-        },
         {
             "date": "2026-05-18",
             "rate": 1493.0
@@ -7101,7 +7097,11 @@
         },
         {
             "date": "2026-06-15",
-            "rate": 1512.0
+            "rate": 1514.0
+        },
+        {
+            "date": "2026-06-16",
+            "rate": 1508.0
         }
     ]
 }
