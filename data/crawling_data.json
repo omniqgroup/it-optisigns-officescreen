@@ -3228,18 +3228,6 @@
         ],
         "XSI": [
             {
-                "date": "2025-06-17",
-                "XSI_Composite_Index": 2134,
-                "XSI_East_Asia_North_Europe": 2789,
-                "XSI_North_Europe_East_Asia": 275,
-                "XSI_East_Asia_US_West_Coast": 5051,
-                "XSI_US_West_Coast_East_Asia": 635,
-                "XSI_East_Asia_South_America_East_Coast": 4916,
-                "XSI_North_Europe_US_East_Coast": 2093,
-                "XSI_US_East_Coast_North_Europe": 649,
-                "XSI_North_Europe_South_America_East_Coast": 663
-            },
-            {
                 "date": "2025-06-18",
                 "XSI_Composite_Index": 2129,
                 "XSI_East_Asia_North_Europe": 2810,
