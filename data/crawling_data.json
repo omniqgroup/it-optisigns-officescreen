@@ -1621,18 +1621,6 @@
         ],
         "WCI": [
             {
-                "date": "2025-06-26",
-                "WCI_Composite_Index": 2983,
-                "WCI_Shanghai_Rotterdam": 3204,
-                "WCI_Rotterdam_Shanghai": 515,
-                "WCI_Shanghai_Genoa": 4100,
-                "WCI_Shanghai_to_Los_Angeles": 3741,
-                "WCI_Los_Angeles_to_Shanghai": 717,
-                "WCI_Shanghai_New_York": 5703,
-                "WCI_New_York_Rotterdam": 826,
-                "WCI_Rotterdam_New_York": 1982
-            },
-            {
                 "date": "2025-07-03",
                 "WCI_Composite_Index": 2812,
                 "WCI_Shanghai_Rotterdam": 3468,
@@ -3255,18 +3243,6 @@
             }
         ],
         "XSI": [
-            {
-                "date": "2025-06-26",
-                "XSI_Composite_Index": 1993,
-                "XSI_East_Asia_North_Europe": 2854,
-                "XSI_North_Europe_East_Asia": 278,
-                "XSI_East_Asia_US_West_Coast": 3178,
-                "XSI_US_West_Coast_East_Asia": 645,
-                "XSI_East_Asia_South_America_East_Coast": 5589,
-                "XSI_North_Europe_US_East_Coast": 2099,
-                "XSI_US_East_Coast_North_Europe": 637,
-                "XSI_North_Europe_South_America_East_Coast": 667
-            },
             {
                 "date": "2025-06-27",
                 "XSI_Composite_Index": 1990,
